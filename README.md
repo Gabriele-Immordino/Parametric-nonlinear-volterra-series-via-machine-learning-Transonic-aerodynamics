@@ -1,8 +1,9 @@
 Parametric Nonlinear Volterra Series via Machine Learning
 ====================================================================
 
-This script supports Chapter 4 of the doctoral thesis:
-"4 Parametric Nonlinear Volterra Series via Machine Learning for 3D Unsteady Transonic Loads." for 3D Test Case
+This script supports the paper:  
+**"Parametric Nonlinear Volterra Series via Machine Learning: Transonic Aerodynamics"**  
+Available at: [https://arc.aiaa.org/doi/abs/10.2514/1.C038288](https://arc.aiaa.org/doi/abs/10.2514/1.C038288)
 
 Purpose:
 --------
