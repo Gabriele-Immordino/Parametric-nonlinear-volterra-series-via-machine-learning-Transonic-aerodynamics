@@ -71,4 +71,14 @@ Ensure the following scripts are executed in the proper sequence:
    ```
    Combines low- and high-fidelity predictions to enhance flutter boundary estimation using multi-fidelity surrogate modeling.
 
+
+Citation
+
+If you use this code or dataset in your research, please cite:
+G. Immordino, A. Da Ronch, and M. Righi.  
+Parametric nonlinear Volterra series via machine learning: Transonic aerodynamics.  
+Journal of Aircraft, 0(0):1–18, 2025.  
+https://doi.org/10.2514/1.C038288
+
+
 Author: Gabriele Immordino
